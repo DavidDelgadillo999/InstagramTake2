@@ -39,6 +39,93 @@ div.appendChild(image5Span);
 var lineBreak2 =
     document.createElement("br");
 div.appendChild(lineBreak2);
+
+
+
+var image6Span =
+    document.createElement("span");
+image6Span.innerHTML = "Image 6 ";
+div.appendChild(image6Span);
+var image7Span =
+    document.createElement("span");
+image7Span.innerHTML = "Image 7 ";
+div.appendChild(image7Span);
+var image8Span =
+    document.createElement("span");
+image8Span.innerHTML = "Image 8 ";
+div.appendChild(image8Span);
+var image9Span =
+    document.createElement("span");
+image9Span.innerHTML = "Image 9 ";
+div.appendChild(image9Span);
+var image10Span =
+    document.createElement("span");
+image10Span.innerHTML = "Image 10 ";
+div.appendChild(image10Span);
+var lineBreak4 =
+    document.createElement("br");
+div.appendChild(lineBreak4);
+
+
+
+var image11Span =
+    document.createElement("span");
+image11Span.innerHTML = "Image 11 ";
+div.appendChild(image11Span);
+var image12Span =
+    document.createElement("span");
+image12Span.innerHTML = "Image 12 ";
+div.appendChild(image12Span);
+var image13Span =
+    document.createElement("span");
+image13Span.innerHTML = "Image 13 ";
+div.appendChild(image13Span);
+var image14Span =
+    document.createElement("span");
+image14Span.innerHTML = "Image 14 ";
+div.appendChild(image14Span);
+var image20Span =
+    document.createElement("span");
+image20Span.innerHTML = "Image 20 ";
+div.appendChild(image20Span);
+
+var lineBreak5 =
+    document.createElement("br");
+div.appendChild(lineBreak5);
+
+
+
+var image21Span =
+    document.createElement("span");
+image21Span.innerHTML = "Image 21 ";
+div.appendChild(image21Span);
+var image22Span =
+    document.createElement("span");
+image22Span.innerHTML = "Image 22 ";
+div.appendChild(image22Span);
+var image23Span =
+    document.createElement("span");
+image23Span.innerHTML = "Image 23 ";
+div.appendChild(image23Span);
+var image24Span =
+    document.createElement("span");
+image24Span.innerHTML = "Image 24 ";
+div.appendChild(image24Span);
+var image25Span =
+    document.createElement("span");
+image25Span.innerHTML = "Image 25 ";
+div.appendChild(image25Span);
+
+var lineBreak3 =
+    document.createElement("br");
+div.appendChild(lineBreak3);
+
+
+var lineBreak5 =
+    document.createElement("br");
+div.appendChild(lineBreak5);
+
+
 var aboutSpan =
     document.createElement("span");
 aboutSpan.innerHTML = "About ";
@@ -81,19 +168,3 @@ function SumOfNumbers(x, y) {
     console.log(result);
 
 }
-
-SumOfNumbers(20, 30);
-
-
-var firstDate = new Date();
-var secondDate = new Date(1997, 6, 3);
-
-if (firstDate > secondDate) {
-
-    document.write("First date is greater");
-
-} else if (firstdate == secondDate) {
-        document.write("The two dates are equal");
-    } else {
-        document.write("The second date is greater")
-    }
