@@ -85,20 +85,15 @@ function SumOfNumbers(x, y) {
 SumOfNumbers(20, 30);
 
 
-var myString = " Hello, this is a string     ";
-var result = myString.substring(0, 3);
+var firstDate = new Date();
+var secondDate = new Date(1997, 6, 3);
 
-console.log(result.trim());
+if (firstDate > secondDate) {
 
-var d = new Date();
+    document.write("First date is greater");
 
-var dateFormat = (d.getMonth() + 1).toString().padStart(2, "0") +
-
-    "/" + d.getDate().toString().padStart(2, "0") +"/" + d.getFullYear();
-
-console.log(dateFormat);
-
-
-var d2 = new Date(2018, 4, 5);
-
-document.write(d2.toLocaleString("th-TH"))
+} else if (firstdate == secondDate) {
+        document.write("The two dates are equal");
+    } else {
+        document.write("The second date is greater")
+    }
