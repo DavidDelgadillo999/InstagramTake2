@@ -89,3 +89,16 @@ var myString = " Hello, this is a string     ";
 var result = myString.substring(0, 3);
 
 console.log(result.trim());
+
+var d = new Date();
+
+var dateFormat = (d.getMonth() + 1).toString().padStart(2, "0") +
+
+    "/" + d.getDate().toString().padStart(2, "0") +"/" + d.getFullYear();
+
+console.log(dateFormat);
+
+
+var d2 = new Date(2018, 4, 5);
+
+document.write(d2.toLocaleString("th-TH"))
