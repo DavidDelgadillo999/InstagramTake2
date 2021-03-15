@@ -5,24 +5,6 @@
       <File FileName="InstagramProject/Views/Home/Index.cshtml" Line="10" Column="19" />
       <File FileName="InstagramProject/wwwroot/js/Index.js" Line="93" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="InstagramProject" expanded="True">
-            <Node name="InstagramProject" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True">
-                  <Node name="Index.js" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
