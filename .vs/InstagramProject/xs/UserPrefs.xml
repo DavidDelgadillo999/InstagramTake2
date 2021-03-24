@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{389FF354-8EF7-4501-97B0-AAAE7BF7F697}|Default">
   <MonoDevelop.Ide.ItemProperties.InstagramProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InstagramProject/wwwroot/js/Index.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstagramProject/wwwroot/js/Register.js">
     <Files>
-      <File FileName="InstagramProject/Views/Home/Index.cshtml" Line="10" Column="19" />
-      <File FileName="InstagramProject/wwwroot/js/Index.js" Line="93" Column="1" />
+      <File FileName="InstagramProject/Views/Home/Register.cshtml" Line="19" Column="41" />
+      <File FileName="InstagramProject/wwwroot/js/Register.js" Line="17" Column="34" />
+      <File FileName="Index.js" />
+      <File FileName="InstagramProject/Views/Home/Index.cshtml" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
